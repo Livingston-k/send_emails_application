@@ -1,0 +1,32 @@
+{
+    "name": "send_emails_application",
+    "version": "1.0.0",
+    "description": "node send emails node mailer",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Livingston-k/send_emails_application.git"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "nodemailer",
+        "server"
+    ],
+    "author": "Kaddu Livingstone",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Livingston-k/send_emails_application/issues"
+    },
+    "homepage": "https://github.com/Livingston-k/send_emails_application#readme",
+    "dependencies": {
+        "dotenv": "^16.0.1",
+        "ejs": "^3.1.8",
+        "express": "^4.18.1",
+        "nodemailer": "^6.7.7",
+        "nodemon": "^2.0.19"
+    }
+}
