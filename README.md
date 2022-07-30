@@ -1,2 +1,2 @@
-# send_emails_application
+# send emails Node application
 Send emails application wih node express and node mailer
